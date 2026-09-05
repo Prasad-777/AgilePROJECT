@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hello world!!!!
 hello everyone ...
 wassup my people...
 new changes added...
+=======
+hello everyone 
+this is my first temporary file to be added in the git repository
+>>>>>>> 4290d51a64dac6072d34dcff2b6637dd9591bdd3
